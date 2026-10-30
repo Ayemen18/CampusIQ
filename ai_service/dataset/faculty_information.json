@@ -1,0 +1,277 @@
+[
+  {
+    "doc_id": "FAC_001",
+    "name": "Mrs. Arshiya Begum",
+    "department": "CSE - Data Science",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "RAG Systems"
+    ],
+    "email": "arshiya.begum@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_002",
+    "name": "Dr. K. Srinivas Rao",
+    "department": "Computer Science & Engineering",
+    "designation": "Professor & HOD",
+    "subjects": [
+      "Advanced Algorithms",
+      "Cloud Computing"
+    ],
+    "email": "srinivas.cse@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_003",
+    "name": "Dr. P. Radha Krishna",
+    "department": "Information Technology",
+    "designation": "Professor",
+    "subjects": [
+      "Database Management Systems",
+      "Distributed Systems"
+    ],
+    "email": "radhakrishna.it@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_004",
+    "name": "Mrs. T. Swathi",
+    "department": "CSE - Data Science",
+    "designation": "Associate Professor",
+    "subjects": [
+      "Data Mining and Data Warehousing",
+      "Deep Learning"
+    ],
+    "email": "swathi.ds@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_005",
+    "name": "Mr. M. Naresh Kumar",
+    "department": "CSE - AI & ML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Artificial Intelligence",
+      "Reinforcement Learning"
+    ],
+    "email": "naresh.aiml@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_006",
+    "name": "Dr. B. Sudarshan Reddy",
+    "department": "Computer Science & Engineering",
+    "designation": "Associate Professor",
+    "subjects": [
+      "Operating Systems",
+      "Computer Networks"
+    ],
+    "email": "sudarshan.cse@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_007",
+    "name": "Mrs. V. Lakshmi Prasanna",
+    "department": "CSE - Cyber Security",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Network Security",
+      "Cryptography",
+      "Ethical Hacking"
+    ],
+    "email": "lakshmi.cyber@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_008",
+    "name": "Dr. G. Ravi Chandra",
+    "department": "Information Technology",
+    "designation": "Associate Professor",
+    "subjects": [
+      "Web Technologies",
+      "Full Stack Development"
+    ],
+    "email": "ravichandra.it@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_009",
+    "name": "Mr. K. Vamshi Krishna",
+    "department": "CSE - Data Science",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Big Data Analytics",
+      "Python for Data Science"
+    ],
+    "email": "vamshi.ds@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_010",
+    "name": "Mrs. S. Deepthi",
+    "department": "Computer Science & Engineering",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Compiler Design",
+      "Formal Languages & Automata"
+    ],
+    "email": "deepthi.cse@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_011",
+    "name": "Dr. N. Mahesh",
+    "department": "Electronics & Communication",
+    "designation": "Professor",
+    "subjects": [
+      "VLSI Design",
+      "Embedded Systems"
+    ],
+    "email": "mahesh.ece@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_012",
+    "name": "Mrs. R. Sravanthi",
+    "department": "CSE - AI & ML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Computer Vision",
+      "Digital Image Processing"
+    ],
+    "email": "sravanthi.aiml@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_013",
+    "name": "Dr. C. Harish",
+    "department": "Mathematics & Humanities",
+    "designation": "Associate Professor",
+    "subjects": [
+      "Probability & Statistics",
+      "Linear Algebra"
+    ],
+    "email": "harish.math@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_014",
+    "name": "Mr. Syed Riaz",
+    "department": "Training & Placement Cell",
+    "designation": "Dean - Career Development",
+    "subjects": [
+      "Placement Soft Skills",
+      "Interview Preparation"
+    ],
+    "email": "placements@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_015",
+    "name": "Dr. A. Anand",
+    "department": "Mechanical Engineering",
+    "designation": "Professor",
+    "subjects": [
+      "Robotics",
+      "CAD/CAM"
+    ],
+    "email": "anand.mech@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_016",
+    "name": "Mrs. Bhavani Devi",
+    "department": "CSE - Data Science",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Business Intelligence",
+      "Tableau & Power BI"
+    ],
+    "email": "bhavani.ds@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_017",
+    "name": "Mr. D. Praveen",
+    "department": "Computer Science & Engineering",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Software Engineering",
+      "Agile & DevOps"
+    ],
+    "email": "praveen.cse@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_018",
+    "name": "Dr. Sandhya Rani",
+    "department": "Information Technology",
+    "designation": "Professor",
+    "subjects": [
+      "Mobile Application Development",
+      "Internet of Things"
+    ],
+    "email": "sandhya.it@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_019",
+    "name": "Mr. J. Kiran",
+    "department": "Physical Education",
+    "designation": "Physical Director",
+    "subjects": [
+      "Sports Management",
+      "Fitness & Yoga"
+    ],
+    "email": "sports@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_020",
+    "name": "Mrs. Anita Rao",
+    "department": "Dean Student Affairs",
+    "designation": "Associate Professor",
+    "subjects": [
+      "Student Welfare & Mentorship"
+    ],
+    "email": "studentaffairs@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_021",
+    "name": "Dr. Venkat Raman",
+    "department": "CSE - Data Science",
+    "designation": "Professor",
+    "subjects": [
+      "Data Engineering",
+      "Apache Spark & Hadoop"
+    ],
+    "email": "venkat.ds@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_022",
+    "name": "Mrs. K. Madhavi",
+    "department": "Computer Science & Engineering",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Object Oriented Programming with Java"
+    ],
+    "email": "madhavi.cse@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_023",
+    "name": "Mr. Y. Rajesh",
+    "department": "CSE - Cyber Security",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Cyber Forensics",
+      "Malware Analysis"
+    ],
+    "email": "rajesh.cyber@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_024",
+    "name": "Dr. Shalini Gupta",
+    "department": "Mathematics & Humanities",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Technical Communication",
+      "Professional Ethics"
+    ],
+    "email": "shalini.hss@mlrit.ac.in"
+  },
+  {
+    "doc_id": "FAC_025",
+    "name": "Dr. E. Suresh",
+    "department": "Examination Cell",
+    "designation": "Controller of Examinations",
+    "subjects": [
+      "Academic Audits",
+      "Exam Administration"
+    ],
+    "email": "coe@mlrit.ac.in"
+  }
+]

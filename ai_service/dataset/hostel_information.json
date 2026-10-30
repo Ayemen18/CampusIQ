@@ -1,0 +1,162 @@
+[
+  {
+    "doc_id": "HST_001",
+    "rule": "Hostel In-Time and Curfew Timings",
+    "timings": "08:30 PM for Boys Hostel, 07:00 PM for Girls Hostel",
+    "mess_schedule": "Breakfast: 7:30-9:00 AM, Lunch: 12:30-2:00 PM, Dinner: 7:30-9:00 PM",
+    "warden_contact": "Chief Warden: 9848022360, Girls Hostel: 9848022365",
+    "discipline": "Biometric entry strictly monitored. Late entry after curfew without prior warden permission incurs a fine of Rs. 500."
+  },
+  {
+    "doc_id": "HST_002",
+    "rule": "Hostel Room Allocation and Furniture Maintenance",
+    "timings": "Annual allocation during July semester registration",
+    "mess_schedule": "Standard 3-sharing and 2-sharing rooms",
+    "warden_contact": "Block Warden: Ext 210",
+    "discipline": "Students are responsible for furniture, fan, tube light, and cupboard allocated to them. Willful damage leads to recovery costs plus penalty."
+  },
+  {
+    "doc_id": "HST_003",
+    "rule": "Mess Menu and Hygiene Regulations",
+    "timings": "7 Days a week with rotating multi-cuisine menu",
+    "mess_schedule": "4 meals per day including evening tea and snacks at 05:00 PM",
+    "warden_contact": "Mess Supervisor: 9848022370",
+    "discipline": "Food wastage is strictly discouraged. Taking mess utensils or food plates to hostel rooms is strictly prohibited."
+  },
+  {
+    "doc_id": "HST_004",
+    "rule": "Hostel Out-Pass and Leave Application Procedure",
+    "timings": "Out-pass requests must be applied 24 hours in advance via CampusIQ",
+    "mess_schedule": "Regular hours",
+    "warden_contact": "Wardens Desk Room 101",
+    "discipline": "Weekend home passes require SMS/telephonic confirmation from registered parent mobile number before gate clearance is issued."
+  },
+  {
+    "doc_id": "HST_005",
+    "rule": "Zero Tolerance Against Ragging in Hostels",
+    "timings": "24/7 Anti-Ragging Flying Squad Active",
+    "mess_schedule": "N/A",
+    "warden_contact": "Anti-Ragging Helpline: 1800-180-5522, Warden Mobile: 9848022360",
+    "discipline": "Any form of ragging, harassment, or intimidation results in immediate expulsion from college and police FIR under Telangana Prohibition of Ragging Act."
+  },
+  {
+    "doc_id": "HST_006",
+    "rule": "Prohibition of Electrical Appliances",
+    "timings": "Continuous room inspections",
+    "mess_schedule": "N/A",
+    "warden_contact": "Hostel Electrician: Ext 215",
+    "discipline": "Use of high-power immersion heaters, electric stoves, induction cookers, and irons in rooms is banned due to fire safety hazards."
+  },
+  {
+    "doc_id": "HST_007",
+    "rule": "Visitor and Day-Scholar Policy in Hostels",
+    "timings": "Visitor hours: 04:30 PM - 06:30 PM on Sundays only",
+    "mess_schedule": "Guest coupons available at mess counter",
+    "warden_contact": "Hostel Security In-charge",
+    "discipline": "Day-scholar students and unauthorized external guests are strictly forbidden from entering hostel rooms. Violation results in disciplinary action."
+  },
+  {
+    "doc_id": "HST_008",
+    "rule": "Hostel Wi-Fi and Silent Study Hours",
+    "timings": "Wi-Fi: 24/7, Study hours: 09:30 PM - 11:30 PM",
+    "mess_schedule": "Night canteen open till 11:00 PM",
+    "warden_contact": "Network Support: Ext 108",
+    "discipline": "Playing loud music, shouting, or creating disturbances during designated silent study hours is penalized."
+  },
+  {
+    "doc_id": "HST_009",
+    "rule": "Hostel Medical Emergency Support",
+    "timings": "24/7 Ambulance available on campus",
+    "mess_schedule": "Dietary sick meals provided upon request",
+    "warden_contact": "Health Center Doctor: 9848022331",
+    "discipline": "Any medical illness or sudden fever must be reported to floor supervisor immediately for prompt medical attention."
+  },
+  {
+    "doc_id": "HST_010",
+    "rule": "Hostel Fee Payment & Refund Guidelines",
+    "timings": "Annual fee payment in single or two installments",
+    "mess_schedule": "Mess fee calculated on dividing system",
+    "warden_contact": "Hostel Accounts Office: Ext 205",
+    "discipline": "Hostel admission is valid for one academic year. Mid-year vacating does not entitle refund of room rent except caution deposit."
+  },
+  {
+    "doc_id": "HST_011",
+    "rule": "Drinking, Smoking and Substance Abuse Prohibition",
+    "timings": "Zero tolerance 24/7",
+    "mess_schedule": "N/A",
+    "warden_contact": "Disciplinary Committee: 9848022360",
+    "discipline": "Possession or consumption of alcohol, tobacco, e-cigarettes, or contraband substances leads to instant expulsion from hostel and academic suspension."
+  },
+  {
+    "doc_id": "HST_012",
+    "rule": "Laundry & Washing Machine Facilities",
+    "timings": "06:00 AM - 09:00 PM Everyday",
+    "mess_schedule": "N/A",
+    "warden_contact": "Hostel Caretaker: Room 102",
+    "discipline": "Commercial coin/token operated washing machines available on each floor. Professional laundry pickup twice a week."
+  },
+  {
+    "doc_id": "HST_013",
+    "rule": "Hostel Gym and Recreation Common Rooms",
+    "timings": "05:30 AM - 08:00 AM and 05:00 PM - 08:00 PM",
+    "mess_schedule": "N/A",
+    "warden_contact": "Sports Representative",
+    "discipline": "Recreation hall equipped with LED TV, satellite channels, carrom, table tennis, and daily newspapers in English and Telugu."
+  },
+  {
+    "doc_id": "HST_014",
+    "rule": "Hostel Room Cleaning and Housekeeping",
+    "timings": "Daily floor sweeping, weekly deep cleaning",
+    "mess_schedule": "N/A",
+    "warden_contact": "Housekeeping Supervisor",
+    "discipline": "Students must keep their rooms tidy and allow housekeeping staff to perform routine cleaning during morning hours."
+  },
+  {
+    "doc_id": "HST_015",
+    "rule": "Hostel Night Study Hall Access",
+    "timings": "Open until 02:00 AM during examination weeks",
+    "mess_schedule": "Late night tea/coffee counter available",
+    "warden_contact": "Library In-charge",
+    "discipline": "Air-conditioned common study halls available on 1st and 3rd floors for late-night exam revisions in silence."
+  },
+  {
+    "doc_id": "HST_016",
+    "rule": "Hostel Security and CCTV Surveillance",
+    "timings": "24/7 Security guards and perimeter cameras",
+    "mess_schedule": "N/A",
+    "warden_contact": "Chief Security Officer",
+    "discipline": "Corridors, entry gates, and common areas are monitored by CCTV for student safety. Tampering with cameras is a severe offense."
+  },
+  {
+    "doc_id": "HST_017",
+    "rule": "Valuables and Cash Custody",
+    "timings": "Always",
+    "mess_schedule": "N/A",
+    "warden_contact": "Wardens Office",
+    "discipline": "Students are strongly advised not to keep large amounts of cash or expensive gold jewelry in rooms. College is not liable for personal theft."
+  },
+  {
+    "doc_id": "HST_018",
+    "rule": "Hostel Grievance and Suggestion Box",
+    "timings": "Weekly committee review every Saturday",
+    "mess_schedule": "N/A",
+    "warden_contact": "Student Hostel Representative",
+    "discipline": "Grievances regarding mess quality, plumbing, or electrical issues can be submitted directly via CampusIQ Grievance portal."
+  },
+  {
+    "doc_id": "HST_019",
+    "rule": "Vacation Luggage Storage Facility",
+    "timings": "End of semester break",
+    "mess_schedule": "N/A",
+    "warden_contact": "Hostel Storekeeper",
+    "discipline": "Students going home for summer/winter breaks can store labeled trunks in the central luggage cloak room under lock and key."
+  },
+  {
+    "doc_id": "HST_020",
+    "rule": "Hostel Vehicle Parking Regulations",
+    "timings": "Day and night parking in designated bays",
+    "mess_schedule": "N/A",
+    "warden_contact": "Security Gate 2",
+    "discipline": "Two-wheelers must have college security sticker pass and helmet is mandatory for entry. Rash driving inside campus is banned."
+  }
+]

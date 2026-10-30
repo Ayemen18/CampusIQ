@@ -1,0 +1,182 @@
+[
+  {
+    "doc_id": "EXM_001",
+    "subject": "Machine Learning (CS701PC)",
+    "semester": 7,
+    "date": "2026-11-16",
+    "time": "10:00 AM - 01:00 PM",
+    "venue": "Block-A & Block-B Exam Halls",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_002",
+    "subject": "Natural Language Processing (DS702PC)",
+    "semester": 7,
+    "date": "2026-11-18",
+    "time": "10:00 AM - 01:00 PM",
+    "venue": "Block-A Exam Hall 201-205",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_003",
+    "subject": "Cloud Computing and Virtualization (CS703PC)",
+    "semester": 7,
+    "date": "2026-11-20",
+    "time": "10:00 AM - 01:00 PM",
+    "venue": "Block-B Exam Hall 101-105",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_004",
+    "subject": "Deep Learning & Neural Architectures (DS704PE)",
+    "semester": 7,
+    "date": "2026-11-23",
+    "time": "10:00 AM - 01:00 PM",
+    "venue": "Block-C Central Auditorium",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_005",
+    "subject": "Full Stack Web Development (CS705PC)",
+    "semester": 7,
+    "date": "2026-11-25",
+    "time": "10:00 AM - 01:00 PM",
+    "venue": "Block-A Exam Halls 301-306",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_006",
+    "subject": "Machine Learning Lab Practical Exam",
+    "semester": 7,
+    "date": "2026-12-01",
+    "time": "09:30 AM - 12:30 PM",
+    "venue": "Data Science Lab 1 & 2 (Block A)",
+    "type": "External Lab Examination"
+  },
+  {
+    "doc_id": "EXM_007",
+    "subject": "NLP & Deep Learning Lab Practical",
+    "semester": 7,
+    "date": "2026-12-02",
+    "time": "01:30 PM - 04:30 PM",
+    "venue": "AI Innovation Lab (Block B)",
+    "type": "External Lab Examination"
+  },
+  {
+    "doc_id": "EXM_008",
+    "subject": "Full Stack Development Project Lab",
+    "semester": 7,
+    "date": "2026-12-04",
+    "time": "09:30 AM - 12:30 PM",
+    "venue": "Advanced Computing Lab",
+    "type": "External Lab Examination"
+  },
+  {
+    "doc_id": "EXM_009",
+    "subject": "Major Project Stage-1 Review & Viva",
+    "semester": 7,
+    "date": "2026-12-08",
+    "time": "09:00 AM - 04:00 PM",
+    "venue": "Seminar Hall 1, CSE Dept",
+    "type": "Departmental Project Evaluation"
+  },
+  {
+    "doc_id": "EXM_010",
+    "subject": "Database Management Systems (CS501PC)",
+    "semester": 5,
+    "date": "2026-11-17",
+    "time": "02:00 PM - 05:00 PM",
+    "venue": "Block-B Exam Halls 201-208",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_011",
+    "subject": "Operating Systems (CS502PC)",
+    "semester": 5,
+    "date": "2026-11-19",
+    "time": "02:00 PM - 05:00 PM",
+    "venue": "Block-B Exam Halls 201-208",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_012",
+    "subject": "Computer Networks (CS503PC)",
+    "semester": 5,
+    "date": "2026-11-21",
+    "time": "02:00 PM - 05:00 PM",
+    "venue": "Block-B Exam Halls 201-208",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_013",
+    "subject": "Big Data Analytics (DS504PC)",
+    "semester": 5,
+    "date": "2026-11-24",
+    "time": "02:00 PM - 05:00 PM",
+    "venue": "Block-A Exam Halls 101-106",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_014",
+    "subject": "Artificial Intelligence Foundations (AI505PC)",
+    "semester": 5,
+    "date": "2026-11-26",
+    "time": "02:00 PM - 05:00 PM",
+    "venue": "Block-A Exam Halls 101-106",
+    "type": "Semester End Theory Examination"
+  },
+  {
+    "doc_id": "EXM_015",
+    "subject": "Mid-Term Examination 1 - Odd Semester",
+    "semester": 7,
+    "date": "2026-09-08 to 2026-09-12",
+    "time": "10:00 AM - 12:00 PM",
+    "venue": "Classrooms Respective Blocks",
+    "type": "Internal Assessment Test"
+  },
+  {
+    "doc_id": "EXM_016",
+    "subject": "Mid-Term Examination 2 - Odd Semester",
+    "semester": 7,
+    "date": "2026-11-03 to 2026-11-07",
+    "time": "10:00 AM - 12:00 PM",
+    "venue": "Classrooms Respective Blocks",
+    "type": "Internal Assessment Test"
+  },
+  {
+    "doc_id": "EXM_017",
+    "subject": "Supply / Backlog Examination Registration",
+    "semester": 1,
+    "date": "2026-10-15 to 2026-10-25",
+    "time": "Online Portal",
+    "venue": "Examination Portal (erp.mlrit.ac.in)",
+    "type": "Fee Payment & Registration"
+  },
+  {
+    "doc_id": "EXM_018",
+    "subject": "Issuance of Hall Tickets / Admit Cards",
+    "semester": 7,
+    "date": "2026-11-12",
+    "time": "10:00 AM Onwards",
+    "venue": "Student Portal & Department Office",
+    "type": "Hall Ticket Clearance"
+  },
+  {
+    "doc_id": "EXM_019",
+    "subject": "Declaration of Semester End Results",
+    "semester": 7,
+    "date": "2026-12-30",
+    "time": "05:00 PM",
+    "venue": "Official Portal results.mlrit.ac.in",
+    "type": "Result Publication"
+  },
+  {
+    "doc_id": "EXM_020",
+    "subject": "Recounting & Revaluation Application Window",
+    "semester": 7,
+    "date": "2027-01-02 to 2027-01-08",
+    "time": "Online Portal",
+    "venue": "Exam Branch Counters",
+    "type": "Grievance / Revaluation"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "doc_id": "CRS_001",
+    "course": "CS701PC: Machine Learning",
+    "semester": 7,
+    "credits": 4,
+    "department": "CSE - Data Science",
+    "faculty": "Mrs. Arshiya Begum",
+    "syllabus": "Supervised, Unsupervised learning, Neural Networks, Decision Trees, SVM, Evaluation Metrics."
+  },
+  {
+    "doc_id": "CRS_002",
+    "course": "DS702PC: Natural Language Processing",
+    "semester": 7,
+    "credits": 3,
+    "department": "CSE - Data Science",
+    "faculty": "Mrs. Arshiya Begum",
+    "syllabus": "N-grams, Word2Vec, Transformers, BERT, LLMs, Retrieval Augmented Generation (RAG)."
+  },
+  {
+    "doc_id": "CRS_003",
+    "course": "CS703PC: Cloud Computing and Virtualization",
+    "semester": 7,
+    "credits": 3,
+    "department": "Computer Science & Engineering",
+    "faculty": "Dr. K. Srinivas Rao",
+    "syllabus": "AWS, GCP, Virtualization, Containers, Docker, Kubernetes, Cloud Storage."
+  },
+  {
+    "doc_id": "CRS_004",
+    "course": "DS704PE: Deep Learning & Neural Architectures",
+    "semester": 7,
+    "credits": 3,
+    "department": "CSE - Data Science",
+    "faculty": "Mrs. T. Swathi",
+    "syllabus": "CNNs, RNNs, LSTMs, Attention Mechanisms, Generative Adversarial Networks (GANs)."
+  },
+  {
+    "doc_id": "CRS_005",
+    "course": "CS705PC: Full Stack Web Development",
+    "semester": 7,
+    "credits": 4,
+    "department": "Information Technology",
+    "faculty": "Dr. G. Ravi Chandra",
+    "syllabus": "React.js, Node.js, Express, MongoDB, RESTful APIs, Tailwind CSS, State Management."
+  },
+  {
+    "doc_id": "CRS_006",
+    "course": "CS501PC: Database Management Systems",
+    "semester": 5,
+    "credits": 4,
+    "department": "Computer Science & Engineering",
+    "faculty": "Dr. P. Radha Krishna",
+    "syllabus": "ER Modeling, Relational Algebra, SQL, Normalization (1NF to BCNF), Transactions, Concurrency."
+  },
+  {
+    "doc_id": "CRS_007",
+    "course": "CS502PC: Operating Systems",
+    "semester": 5,
+    "credits": 4,
+    "department": "Computer Science & Engineering",
+    "faculty": "Dr. B. Sudarshan Reddy",
+    "syllabus": "Process Management, Threads, Deadlocks, Memory Management, Paging, Virtual Memory, File Systems."
+  },
+  {
+    "doc_id": "CRS_008",
+    "course": "CS503PC: Computer Networks",
+    "semester": 5,
+    "credits": 3,
+    "department": "Computer Science & Engineering",
+    "faculty": "Dr. B. Sudarshan Reddy",
+    "syllabus": "OSI and TCP/IP Reference Models, IP Addressing, Routing Protocols, TCP/UDP, DNS, HTTP."
+  },
+  {
+    "doc_id": "CRS_009",
+    "course": "DS504PC: Big Data Analytics",
+    "semester": 5,
+    "credits": 3,
+    "department": "CSE - Data Science",
+    "faculty": "Mr. K. Vamshi Krishna",
+    "syllabus": "Hadoop Architecture, MapReduce, HDFS, Spark Core, PySpark, Data Lakes."
+  },
+  {
+    "doc_id": "CRS_010",
+    "course": "AI505PC: Artificial Intelligence Foundations",
+    "semester": 5,
+    "credits": 3,
+    "department": "CSE - AI & ML",
+    "faculty": "Mr. M. Naresh Kumar",
+    "syllabus": "Search Algorithms, A*, Game Playing, Knowledge Representation, Propositional Logic, Expert Systems."
+  },
+  {
+    "doc_id": "CRS_011",
+    "course": "CY601PC: Cryptography and Network Security",
+    "semester": 6,
+    "credits": 3,
+    "department": "CSE - Cyber Security",
+    "faculty": "Mrs. V. Lakshmi Prasanna",
+    "syllabus": "AES, RSA, Public Key Infrastructure, Digital Signatures, Firewalls, IPSec, TLS/SSL."
+  },
+  {
+    "doc_id": "CRS_012",
+    "course": "CS602PC: Compiler Design",
+    "semester": 6,
+    "credits": 4,
+    "department": "Computer Science & Engineering",
+    "faculty": "Mrs. S. Deepthi",
+    "syllabus": "Lexical Analysis, Top-down and Bottom-up Parsing, Syntax Directed Translation, Code Optimization."
+  },
+  {
+    "doc_id": "CRS_013",
+    "course": "DS603PC: Data Mining and Data Warehousing",
+    "semester": 6,
+    "credits": 3,
+    "department": "CSE - Data Science",
+    "faculty": "Mrs. T. Swathi",
+    "syllabus": "OLAP vs OLTP, Star Schema, Apriori Algorithm, FP-Growth, Clustering algorithms, K-Means."
+  },
+  {
+    "doc_id": "CRS_014",
+    "course": "MH301BS: Probability & Statistics for Engineers",
+    "semester": 3,
+    "credits": 4,
+    "department": "Mathematics",
+    "faculty": "Dr. C. Harish",
+    "syllabus": "Bayes Theorem, Random Variables, Probability Distributions (Binomial, Poisson, Normal), Hypothesis Testing."
+  },
+  {
+    "doc_id": "CRS_015",
+    "course": "CS801PW: Major Project & Internship",
+    "semester": 8,
+    "credits": 10,
+    "department": "All Branches",
+    "faculty": "Department Project Committee",
+    "syllabus": "Project Phase 1 Review, Implementation, Design Review, Final Thesis, Viva Voce."
+  },
+  {
+    "doc_id": "CRS_016",
+    "course": "CS401PC: Design and Analysis of Algorithms",
+    "semester": 4,
+    "credits": 4,
+    "department": "Computer Science & Engineering",
+    "faculty": "Dr. K. Srinivas Rao",
+    "syllabus": "Asymptotic Notations, Divide & Conquer, Greedy Method, Dynamic Programming, Backtracking, Branch & Bound."
+  },
+  {
+    "doc_id": "CRS_017",
+    "course": "CS402PC: Object Oriented Programming through Java",
+    "semester": 4,
+    "credits": 3,
+    "department": "Computer Science & Engineering",
+    "faculty": "Mrs. K. Madhavi",
+    "syllabus": "Classes, Inheritance, Polymorphism, Interfaces, Exception Handling, Multithreading, Java Streams."
+  },
+  {
+    "doc_id": "CRS_018",
+    "course": "DS403PC: Python for Data Science and Visualization",
+    "semester": 4,
+    "credits": 3,
+    "department": "CSE - Data Science",
+    "faculty": "Mr. K. Vamshi Krishna",
+    "syllabus": "NumPy arrays, Pandas DataFrames, Matplotlib, Seaborn, Exploratory Data Analysis (EDA)."
+  },
+  {
+    "doc_id": "CRS_019",
+    "course": "IT604PE: Mobile Application Development using Flutter",
+    "semester": 6,
+    "credits": 3,
+    "department": "Information Technology",
+    "faculty": "Dr. Sandhya Rani",
+    "syllabus": "Dart Programming, Widget Tree, State Management (Provider/Bloc), REST API Integration, Firebase."
+  },
+  {
+    "doc_id": "CRS_020",
+    "course": "HS706MC: Professional Ethics & Human Values",
+    "semester": 7,
+    "credits": 0,
+    "department": "Humanities",
+    "faculty": "Dr. Shalini Gupta",
+    "syllabus": "Engineering Ethics, Moral Issues, Academic Integrity, Whistleblowing, Global Engineering Issues."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "doc_id": "PLC_001",
+    "company_type": "Dream / Super Dream Companies (Tier-1: CTC > 10 LPA)",
+    "rule": "Minimum CGPA of 7.5 or 8.0 with no history of backlogs (0 active, 0 history). 10th and 12th standard aggregate must be 75% or higher.",
+    "eligibility_cgpa": 7.5,
+    "allowed_backlogs": 0,
+    "guidelines": "Students securing Tier-1 offer are out of subsequent placement drives except for Super Dream packages exceeding 20 LPA."
+  },
+  {
+    "doc_id": "PLC_002",
+    "company_type": "Core / Product Engineering Companies (Tier-2: CTC 6-10 LPA)",
+    "rule": "Minimum CGPA of 6.75 or 7.0 with no active backlogs at the time of drive. Past cleared backlogs permitted up to a maximum of 2.",
+    "eligibility_cgpa": 6.75,
+    "allowed_backlogs": 0,
+    "guidelines": "Technical coding test qualification is mandatory; aptitude clearance is monitored."
+  },
+  {
+    "doc_id": "PLC_003",
+    "company_type": "Mass Recruiters / IT Services (Tier-3: CTC 3.5 - 6.0 LPA)",
+    "rule": "Minimum CGPA of 6.0 or 60% aggregate across all completed semesters. Maximum of 1 active backlog allowed by select recruiters like TCS, Cognizant, Wipro, Accenture.",
+    "eligibility_cgpa": 6.0,
+    "allowed_backlogs": 1,
+    "guidelines": "Students must possess foundational programming skills in Java, Python, or C++ and English communication clearance."
+  },
+  {
+    "doc_id": "PLC_004",
+    "company_type": "One Student One Job Policy",
+    "rule": "Once a student is placed in a company offering CTC between 3.5 to 6.5 LPA, they are eligible to attempt only for Dream / Super Dream companies offering CTC >= 2X of their current offer.",
+    "eligibility_cgpa": 6.5,
+    "allowed_backlogs": 0,
+    "guidelines": "Prevents hoarding of offers and ensures equitable placement opportunities for all batchmates."
+  },
+  {
+    "doc_id": "PLC_005",
+    "company_type": "Mandatory Training & Assessment Attendance",
+    "rule": "Students must achieve 85% attendance in Placement Training Soft-Skills, Quantitative Aptitude, and Mock Technical Coding bootcamps organized by the Career Development Cell.",
+    "eligibility_cgpa": 6.0,
+    "allowed_backlogs": 2,
+    "guidelines": "Unexcused absence from 2 consecutive training sessions leads to debarment from 3 upcoming placement drives."
+  },
+  {
+    "doc_id": "PLC_006",
+    "company_type": "Placement Registration & Code of Conduct",
+    "rule": "Registration on the CampusIQ Placement Portal is mandatory with verified marks, resume, and undertaking. Misrepresentation of CGPA or backlogs leads to permanent debarment.",
+    "eligibility_cgpa": 6.0,
+    "allowed_backlogs": 0,
+    "guidelines": "Dress code is strictly formal western/business attire for all virtual and in-person interviews."
+  },
+  {
+    "doc_id": "PLC_007",
+    "company_type": "Internship-Cum-Placement Conversion Rules",
+    "rule": "Students selected for 6-month VIII semester industrial internships must maintain regular communication with T&P cell and submit monthly work progress reports.",
+    "eligibility_cgpa": 6.5,
+    "allowed_backlogs": 0,
+    "guidelines": "PPO (Pre-Placement Offer) conversions must be formally communicated to college within 7 working days."
+  },
+  {
+    "doc_id": "PLC_008",
+    "company_type": "Penalties for Offer Rejection & No-Show",
+    "rule": "If a student registers for a company drive, clears online assessment, and fails to attend subsequent technical/HR interview without medical emergency, they are blacklisted for 2 subsequent recruitment cycles.",
+    "eligibility_cgpa": 6.0,
+    "allowed_backlogs": 0,
+    "guidelines": "Respect for corporate recruiters' schedule is strictly enforced."
+  },
+  {
+    "doc_id": "PLC_009",
+    "company_type": "Startup & High-Growth Tech Hiring Criteria",
+    "rule": "Minimum CGPA of 6.5, with demonstrated GitHub projects, full-stack applications, open-source contributions, or competitive programming rankings (LeetCode, CodeChef).",
+    "eligibility_cgpa": 6.5,
+    "allowed_backlogs": 1,
+    "guidelines": "Practical hands-on coding skills often prioritized over theoretical marks."
+  },
+  {
+    "doc_id": "PLC_010",
+    "company_type": "Backlog Clearance Verification Procedure",
+    "rule": "Students who cleared supplementary exams must obtain provisional backlog clearance certificates from the Examination Branch and update their CampusIQ placement profile immediately.",
+    "eligibility_cgpa": 6.0,
+    "allowed_backlogs": 0,
+    "guidelines": "Companies do not consider backlog results awaiting revaluation as cleared."
+  },
+  {
+    "doc_id": "PLC_011",
+    "company_type": "Special Diversity & Women in Tech Hiring Drives",
+    "rule": "Global tech corporations (Google WE, Amazon WOW, Adobe SheCodes) hold targeted initiatives with CGPA criterion of 7.0+ for female students.",
+    "eligibility_cgpa": 7.0,
+    "allowed_backlogs": 0,
+    "guidelines": "Specialized mentorship and coding preparation sessions offered by college alumni."
+  },
+  {
+    "doc_id": "PLC_012",
+    "company_type": "Placement Verification Document Checklist",
+    "rule": "Students must carry 3 hard copies of verified resume, 4 passport photos, government ID (Aadhaar/PAN), college ID, and original marks memos in a neat portfolio file.",
+    "eligibility_cgpa": 6.0,
+    "allowed_backlogs": 0,
+    "guidelines": "Failure to produce documents during physical document verification causes instant rejection."
+  },
+  {
+    "doc_id": "PLC_013",
+    "company_type": "Higher Studies (GATE/GRE/CAT) Placement Exemption",
+    "rule": "Students pursuing higher studies or government civil services exams can opt out of placement drives by submitting an undertaking signed by parents before the start of the 7th semester.",
+    "eligibility_cgpa": 5.0,
+    "allowed_backlogs": 5,
+    "guidelines": "Exempts students from mandatory placement fee and training bootcamps."
+  },
+  {
+    "doc_id": "PLC_014",
+    "company_type": "Off-Campus Placement Assistance & NOC Rules",
+    "rule": "Students securing off-campus offers can request College No-Objection Certificate (NOC) for early onboarding if they have cleared all 7 semesters with no pending subjects.",
+    "eligibility_cgpa": 6.5,
+    "allowed_backlogs": 0,
+    "guidelines": "Requires submission of formal company offer letter and parent consent letter."
+  },
+  {
+    "doc_id": "PLC_015",
+    "company_type": "Placement Season Timeline & Companies",
+    "rule": "Major hiring season spans August to March. Major visiting firms include Amazon, ServiceNow, Epam, Virtusa, TCS Digital, Cognizant, Wipro, Capgemini, Hexaware, and Darwinbox.",
+    "eligibility_cgpa": 6.0,
+    "allowed_backlogs": 0,
+    "guidelines": "Over 75+ tech and engineering recruiters visit MLRIT campus annually."
+  }
+]

@@ -1,0 +1,111 @@
+query_id,query,document_id
+TRN_001,What is the minimum attendance required for semester examinations?,ATT_001
+TRN_002,Explain the attendance condonation policy and fees,ATT_002
+TRN_003,What happens if my attendance drops below 65 percent?,ATT_003
+TRN_004,What is the subject wise attendance threshold?,ATT_004
+TRN_005,How to get on-duty attendance for hackathons and sports?,ATT_005
+TRN_006,Is biometric attendance mandatory in college?,ATT_006
+TRN_007,When are monthly attendance warnings sent to parents?,ATT_007
+TRN_008,What is the laboratory and practical attendance requirement?,ATT_008
+TRN_009,Within how many days should medical certificates be submitted?,ATT_009
+TRN_010,How many marks are awarded for attendance in internal assessment?,ATT_010
+TRN_011,What is the attendance rule for final year major project?,ATT_011
+TRN_012,Can attendance be condoned below 65%?,ATT_003
+TRN_013,Who has the authority to approve attendance condonation?,ATT_013
+TRN_014,What is the formula to calculate semester attendance?,ATT_014
+TRN_015,Does attendance affect placement eligibility?,ATT_015
+TRN_016,What are the placement eligibility criteria for Tier-1 companies?,PLC_001
+TRN_017,What is the minimum CGPA required for dream placement companies?,PLC_001
+TRN_018,What is the eligibility for core and product engineering companies?,PLC_002
+TRN_019,Can students with backlogs sit for mass recruiters?,PLC_003
+TRN_020,What is the CGPA required for TCS and Cognizant placement?,PLC_003
+TRN_021,Explain the One Student One Job placement policy,PLC_004
+TRN_022,What is the mandatory attendance for placement training bootcamps?,PLC_005
+TRN_023,What happens if someone submits false CGPA for placements?,PLC_006
+TRN_024,What are the rules for 8th semester internship conversion?,PLC_007
+TRN_025,What is the penalty for missing a registered placement interview?,PLC_008
+TRN_026,Are GitHub projects required for startup hiring?,PLC_009
+TRN_027,How to update cleared backlogs for placement drives?,PLC_010
+TRN_028,Are there special placement drives for women in tech?,PLC_011
+TRN_029,What documents should I carry for campus interview drives?,PLC_012
+TRN_030,How to opt out of placements for higher studies GATE or GRE?,PLC_013
+TRN_031,How can I obtain an NOC for off-campus placement offer?,PLC_014
+TRN_032,Which companies visit MLRIT for campus placements?,PLC_015
+TRN_033,When do 7th semester end theory examinations start?,EXM_001
+TRN_034,What is the exam date for Machine Learning CS701PC?,EXM_001
+TRN_035,What is the exam date and timing for Natural Language Processing?,EXM_002
+TRN_036,When is the Cloud Computing theory examination?,EXM_003
+TRN_037,What is the date for Deep Learning elective exam?,EXM_004
+TRN_038,When is the Full Stack Web Development theory exam?,EXM_005
+TRN_039,When are the practical lab examinations scheduled?,EXM_006
+TRN_040,When is the NLP practical lab exam?,EXM_007
+TRN_041,When is the Major Project stage 1 evaluation review?,EXM_009
+TRN_042,When is the 5th semester DBMS examination?,EXM_010
+TRN_043,What is the timing for semester end exams?,EXM_001
+TRN_044,When will exam hall tickets be issued?,EXM_018
+TRN_045,When are semester end examination results announced?,EXM_019
+TRN_046,How do I apply for recounting or revaluation of marks?,EXM_020
+TRN_047,What is the deadline for supplementary exam registration?,EXM_017
+TRN_048,What is the course syllabus for Machine Learning?,CRS_001
+TRN_049,Who teaches the Natural Language Processing subject?,CRS_002
+TRN_050,How many credits are awarded for Cloud Computing CS703PC?,CRS_003
+TRN_051,What topics are covered in Deep Learning neural architectures?,CRS_004
+TRN_052,What is taught in Full Stack Web Development course?,CRS_005
+TRN_053,Who is the faculty for Database Management Systems?,CRS_006
+TRN_054,What are the topics in Operating Systems CS502PC?,CRS_007
+TRN_055,What is the syllabus of Big Data Analytics course?,CRS_009
+TRN_056,How many credits is Major Project in semester 8?,CRS_015
+TRN_057,What is the syllabus for Cryptography and Network Security?,CRS_011
+TRN_058,Who is the course instructor for Compiler Design?,CRS_012
+TRN_059,What is taught in Data Mining and Data Warehousing?,CRS_013
+TRN_060,Is Professional Ethics a credit course or mandatory non-credit course?,CRS_020
+TRN_061,Who is Mrs. Arshiya Begum and what subjects does she teach?,FAC_001
+TRN_062,Who is the Head of Department for Computer Science & Engineering?,FAC_002
+TRN_063,What is the email address of Dr. K. Srinivas Rao?,FAC_002
+TRN_064,Who is the professor teaching Database Systems?,FAC_003
+TRN_065,Which faculty teaches Deep Learning in Data Science dept?,FAC_004
+TRN_066,Who handles Artificial Intelligence in AI and ML department?,FAC_005
+TRN_067,Who is the Cyber Security faculty teaching Cryptography?,FAC_007
+TRN_068,Who is the Dean of Career Development and Placements?,FAC_014
+TRN_069,Who is the Controller of Examinations at MLRIT?,FAC_025
+TRN_070,What is the contact email for placement cell?,FAC_014
+TRN_071,When did classwork commence for 7th semester?,CAL_001
+TRN_072,When are the first mid-term examinations scheduled?,CAL_003
+TRN_073,When is the parent teacher meeting after mid-1?,CAL_004
+TRN_074,When are the second mid-term examinations?,CAL_006
+TRN_075,When are study preparation holidays for lab exams?,CAL_007
+TRN_076,When does winter vacation break start?,CAL_011
+TRN_077,When will 8th semester classes commence?,CAL_012
+TRN_078,When is the annual college technical fest TechFest?,CAL_013
+TRN_079,When is the Vibrance cultural and sports week?,CAL_014
+TRN_080,What is the final deadline for project thesis submission?,CAL_015
+TRN_081,What are the timings of the Central Library?,SRV_001
+TRN_082,Does college have 24/7 medical and dispensary services?,SRV_002
+TRN_083,What are the campus cafeteria timings?,SRV_003
+TRN_084,How many college buses operate and what are the departure times?,SRV_004
+TRN_085,What facilities are in the indoor sports complex and gym?,SRV_006
+TRN_086,Where is the ERP IT helpdesk located?,SRV_008
+TRN_087,What is the internet and Wi-Fi speed on campus?,SRV_009
+TRN_088,Is there a bank branch and ATM inside the campus?,SRV_010
+TRN_089,Is there a confidential student counseling service?,SRV_011
+TRN_090,Where can I get project reports printed and spiral bound?,SRV_012
+TRN_091,What hardware is available at the Robotics and Innovation center?,SRV_013
+TRN_092,What is the contact number for women protection cell?,SRV_014
+TRN_093,What is the curfew time for boys and girls hostel?,HST_001
+TRN_094,What are the hostel mess timings for breakfast lunch and dinner?,HST_001
+TRN_095,What is the procedure for obtaining a weekend hostel out-pass?,HST_004
+TRN_096,What is the college anti-ragging helpline number?,HST_005
+TRN_097,Are electric kettles and heaters allowed in hostel rooms?,HST_006
+TRN_098,Can day scholars enter hostel rooms?,HST_007
+TRN_099,What are silent study hours in hostel?,HST_008
+TRN_100,What is the penalty for alcohol or smoking in hostel?,HST_011
+TRN_101,Are washing machines available in the hostel?,HST_012
+TRN_102,Is there a night study hall during examinations in hostel?,HST_015
+TRN_103,What is the SGPA to percentage conversion formula?,FAQ_011
+TRN_104,How to submit an academic grievance?,FAQ_010
+TRN_105,What are the passing marks criteria for theory courses?,FAQ_017
+TRN_106,Who is guiding the CampusIQ major project team?,FAQ_018
+TRN_107,Are smartwatches permitted in exam halls?,FAQ_023
+TRN_108,What is the minimum CGPA required to graduate with Honours?,FAQ_030
+TRN_109,How does CampusIQ prevent hallucinating fake policies?,FAQ_027
+TRN_110,What scholarships are available for engineering students?,FAQ_028

@@ -1,0 +1,122 @@
+[
+  {
+    "doc_id": "SRV_001",
+    "service": "Central Library & Digital Knowledge Center",
+    "timing": "08:00 AM - 08:00 PM (Monday to Saturday)",
+    "location": "Block-C, Ground & First Floor",
+    "contact": "library@mlrit.ac.in, Ext: 301",
+    "details": "Access to 50,000+ volumes, IEEE Xplore, ScienceDirect, Springer journals, Delnet, and 60 high-speed digital research terminals."
+  },
+  {
+    "doc_id": "SRV_002",
+    "service": "Health Center & Medical Dispensary",
+    "timing": "24/7 On-Call, OPD: 09:00 AM - 06:00 PM",
+    "location": "Hostel Block A Ground Floor",
+    "contact": "health@mlrit.ac.in, 9848022331",
+    "details": "Resident medical officer, female nursing staff, emergency ambulance service, basic diagnostics, and complimentary first aid medications."
+  },
+  {
+    "doc_id": "SRV_003",
+    "service": "Campus Cafeteria & Food Court",
+    "timing": "08:00 AM - 07:30 PM Everyday",
+    "location": "Near Sports Complex",
+    "contact": "cafeteria@mlrit.ac.in",
+    "details": "Hygienic vegetarian and non-vegetarian meals, South Indian breakfast, fruit juices, snack counters, and Nescafe kiosk."
+  },
+  {
+    "doc_id": "SRV_004",
+    "service": "Student Transport & College Buses",
+    "timing": "Morning arrival: 08:45 AM, Evening departure: 04:15 PM & 05:45 PM",
+    "location": "Bus Bay & Parking Area",
+    "contact": "transport@mlrit.ac.in, 9848022340",
+    "details": "Fleet of 65 GPS-enabled AC and non-AC buses covering all prime zones of Hyderabad and Secunderabad."
+  },
+  {
+    "doc_id": "SRV_005",
+    "service": "Career Development & Training Cell",
+    "timing": "09:00 AM - 05:00 PM",
+    "location": "Placement Block, 2nd Floor",
+    "contact": "placements@mlrit.ac.in, Ext: 405",
+    "details": "Aptitude training, resume building labs, technical mock interviews, and corporate recruiter hospitality."
+  },
+  {
+    "doc_id": "SRV_006",
+    "service": "Indoor Sports Complex & Gymnasium",
+    "timing": "06:00 AM - 08:30 AM & 04:30 PM - 07:30 PM",
+    "location": "Sports Arena Building",
+    "contact": "sports@mlrit.ac.in",
+    "details": "Modern fitness gym with trainers, 4 badminton wooden courts, table tennis tables, chess and carrom lounges."
+  },
+  {
+    "doc_id": "SRV_007",
+    "service": "Outdoor Athletic Grounds & Cricket Stadium",
+    "timing": "06:00 AM - 06:30 PM",
+    "location": "Main Athletic Field",
+    "contact": "physicaldirector@mlrit.ac.in",
+    "details": "Standard 400m running track, cricket turf pitch, basketball court, volleyball court, and football arena."
+  },
+  {
+    "doc_id": "SRV_008",
+    "service": "ERP & IT Helpdesk",
+    "timing": "09:00 AM - 04:30 PM",
+    "location": "Admin Block, Room 104",
+    "contact": "erphelp@mlrit.ac.in",
+    "details": "Assistance with student portal login issues, fee payment receipts, ID card printing, and email password resets."
+  },
+  {
+    "doc_id": "SRV_009",
+    "service": "Campus Wi-Fi & Internet Infrastructure",
+    "timing": "24/7 Active",
+    "location": "Whole Campus & Hostels",
+    "contact": "networkadmin@mlrit.ac.in",
+    "details": "1 Gbps high-speed optical fiber backbone with seamless Wi-Fi roaming across all academic blocks and hostels."
+  },
+  {
+    "doc_id": "SRV_010",
+    "service": "Bank Extension Counter & 24/7 ATM",
+    "timing": "Banking: 10:00 AM - 03:30 PM, ATM: 24 Hours",
+    "location": "Near Campus Main Gate",
+    "contact": "Union Bank MLRIT Branch",
+    "details": "Union Bank of India full-fledged branch, fee challan processing, educational loan counseling, and 24-hour ATM."
+  },
+  {
+    "doc_id": "SRV_011",
+    "service": "Student Counseling & Mental Well-being Cell",
+    "timing": "02:00 PM - 05:00 PM (Confidential)",
+    "location": "Block-B, Room 308",
+    "contact": "counselor@mlrit.ac.in",
+    "details": "Licensed psychological counselor offering stress relief, exam anxiety management, and personal counseling with complete privacy."
+  },
+  {
+    "doc_id": "SRV_012",
+    "service": "Stationery Store & Reprographic Center",
+    "timing": "08:30 AM - 06:00 PM",
+    "location": "Opposite Central Library",
+    "contact": "store@mlrit.ac.in",
+    "details": "Photocopying, spiral binding, engineering drawing instruments, project report binding, and textbooks."
+  },
+  {
+    "doc_id": "SRV_013",
+    "service": "Robotics & Innovation Incubation Center",
+    "timing": "09:00 AM - 08:00 PM",
+    "location": "Block-D 3rd Floor",
+    "contact": "incubation@mlrit.ac.in",
+    "details": "3D printers, IoT hardware kits, Arduino/Raspberry Pi boards, startup mentoring, and seed funding support."
+  },
+  {
+    "doc_id": "SRV_014",
+    "service": "Women Protection & Anti-Sexual Harassment Cell",
+    "timing": "24/7 Helpline: 9848022350",
+    "location": "Block-A Room 112",
+    "contact": "womenprotection@mlrit.ac.in",
+    "details": "Dedicated grievance redressal cell for female students and staff ensuring a secure, supportive, and harassment-free environment."
+  },
+  {
+    "doc_id": "SRV_015",
+    "service": "Alumni Relations & Networking Lounge",
+    "timing": "10:00 AM - 04:00 PM",
+    "location": "Admin Block 2nd Floor",
+    "contact": "alumni@mlrit.ac.in",
+    "details": "Connects existing students with global alumni for mentorship, career advice, mock interviews, and scholarship opportunities."
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "doc_id": "ATT_001",
+    "title": "Minimum Attendance Requirement for Semester End Exams",
+    "policy": "A student must secure a minimum aggregate attendance of 75% in all registered subjects of the current semester to be eligible to appear for the semester end examinations.",
+    "condonation_rule": "Condonation of shortage of attendance between 65% and 74.99% may be granted by the Academic Council on genuine medical grounds upon submission of valid medical certificate.",
+    "minimum_percentage": 75
+  },
+  {
+    "doc_id": "ATT_002",
+    "title": "Condonation Application and Fee Procedure",
+    "policy": "Students securing attendance between 65% and 75% must submit an official medical condonation application signed by a Registered Medical Practitioner within 3 working days of notification. A prescribed condonation fee of Rs. 1,500 per semester is payable upon approval.",
+    "condonation_rule": "Valid between 65% and 74.99% only. Below 65% cannot be condoned under any circumstances.",
+    "minimum_percentage": 65
+  },
+  {
+    "doc_id": "ATT_003",
+    "title": "Detention Policy for Low Attendance",
+    "policy": "Students whose overall semester attendance falls below 65% are NOT eligible to appear for semester end examinations. Such students are categorized as 'Detained for Want of Attendance' and must repeat the semester with the subsequent batch.",
+    "condonation_rule": "No condonation allowed below 65%. Detention is strictly enforced under university academic regulations.",
+    "minimum_percentage": 65
+  },
+  {
+    "doc_id": "ATT_004",
+    "title": "Subject-Wise Minimum Attendance Threshold",
+    "policy": "In addition to aggregate attendance of 75%, students should maintain at least 60% attendance in each individual subject to ensure comprehensive understanding and avoid academic warnings.",
+    "condonation_rule": "Individual subject deficiency below 60% triggers mandatory remedial assignments before exam clearance.",
+    "minimum_percentage": 60
+  },
+  {
+    "doc_id": "ATT_005",
+    "title": "On-Duty (OD) Attendance for College Events & Sports",
+    "policy": "Students representing the institution in university sports, hackathons, IEEE conferences, NCC/NSS camps, and approved placement drives will be awarded On-Duty (OD) attendance up to a maximum of 10% of total working days.",
+    "condonation_rule": "OD forms must be endorsed by the Faculty Coordinator and approved by the HOD within 2 days of the event.",
+    "minimum_percentage": 75
+  },
+  {
+    "doc_id": "ATT_006",
+    "title": "Biometric & Digital Attendance Tracking",
+    "policy": "Attendance is recorded digitally at the start of each lecture via the CampusIQ portal. A grace period of 5 minutes from bell time is permitted, after which the student is marked absent.",
+    "condonation_rule": "Late entries cannot be altered without written justification from the Head of Department.",
+    "minimum_percentage": 75
+  },
+  {
+    "doc_id": "ATT_007",
+    "title": "Monthly Attendance Warning Circulars",
+    "policy": "Attendance is reconciled on the last working day of every calendar month. Students below 75% receive First Warning SMS/email. Students below 65% receive Second Warning and their parents are called for counseling.",
+    "condonation_rule": "Cumulative progress is reviewed by the Academic Performance Evaluation Committee.",
+    "minimum_percentage": 75
+  },
+  {
+    "doc_id": "ATT_008",
+    "title": "Laboratory & Practical Attendance Rule",
+    "policy": "A minimum of 80% attendance is mandatory in all laboratory and workshop courses to qualify for external practical examinations. 100% of lab experiments must be completed and certified in the record book.",
+    "condonation_rule": "Missed practical sessions must be repeated during extra lab hours with prior lab-incharge permission.",
+    "minimum_percentage": 80
+  },
+  {
+    "doc_id": "ATT_009",
+    "title": "Medical Leave Submission Timeline",
+    "policy": "In case of prolonged illness or hospitalization, medical certificates along with discharge summaries, diagnostic reports, and fitness certificates must be submitted to the HOD within 3 days of resuming college.",
+    "condonation_rule": "Medical certificates submitted at the end of semester without prior intimation will be rejected.",
+    "minimum_percentage": 65
+  },
+  {
+    "doc_id": "ATT_010",
+    "title": "Attendance Weightage in Internal Assessment",
+    "policy": "Internal assessment calculation allocates 5 marks for attendance: 90%+ (5 marks), 85-89% (4 marks), 80-84% (3 marks), 75-79% (2 marks), Below 75% (0 marks).",
+    "condonation_rule": "Incentivizes high lecture presence throughout the semester.",
+    "minimum_percentage": 75
+  },
+  {
+    "doc_id": "ATT_011",
+    "title": "Final Year Major Project Attendance",
+    "policy": "Final year students working on major projects or industry internships must log a minimum of 75% biometric attendance on designated project days and obtain weekly sign-offs from their internal guide.",
+    "condonation_rule": "Failure to maintain weekly guide interactions results in stage-1 review disqualification.",
+    "minimum_percentage": 75
+  },
+  {
+    "doc_id": "ATT_012",
+    "title": "Elective and Open Elective Attendance",
+    "policy": "Attendance in Professional Electives and Open Electives carries equal weightage as core subjects. Disqualification from an elective exam requires re-registration in subsequent odd/even semester.",
+    "condonation_rule": "Elective attendance cannot be pooled or transferred between subjects.",
+    "minimum_percentage": 75
+  },
+  {
+    "doc_id": "ATT_013",
+    "title": "Condonation Approving Authority",
+    "policy": "Only the Principal and Controller of Examinations, upon recommendation by the HOD, have the authority to grant attendance condonation based on documentary proof.",
+    "condonation_rule": "Academic committee decisions are final and binding.",
+    "minimum_percentage": 65
+  },
+  {
+    "doc_id": "ATT_014",
+    "title": "Attendance Calculation Formula",
+    "policy": "Percentage of Attendance = (Total number of periods attended by the student in all registered courses / Total number of periods conducted by the college in the semester) * 100.",
+    "condonation_rule": "Standard mathematical rounding off to two decimal places applies.",
+    "minimum_percentage": 75
+  },
+  {
+    "doc_id": "ATT_015",
+    "title": "Attendance Requirement for Placement Drives",
+    "policy": "To be eligible to sit for on-campus and off-campus placement interviews and company registration, students must maintain a minimum of 75% attendance in the current and preceding semester.",
+    "condonation_rule": "Students with chronic attendance shortages are debarred from Tier-1 and Tier-2 placement drives.",
+    "minimum_percentage": 75
+  }
+]

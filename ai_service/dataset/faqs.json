@@ -1,0 +1,182 @@
+[
+  {
+    "doc_id": "FAQ_001",
+    "question": "What is the minimum attendance required to appear for semester examinations?",
+    "answer": "Students must have an overall aggregate attendance of at least 75% across all registered theory and lab subjects in the semester to be eligible for semester end examinations.",
+    "category": "Attendance"
+  },
+  {
+    "doc_id": "FAQ_002",
+    "question": "Can shortage of attendance be condoned, and what is the condonation range?",
+    "answer": "Yes, attendance shortage between 65% and 74.99% can be condoned by the Academic Council on genuine medical grounds upon submission of valid medical documents and payment of Rs. 1,500 condonation fee.",
+    "category": "Attendance"
+  },
+  {
+    "doc_id": "FAQ_003",
+    "question": "What happens if my attendance is below 65%?",
+    "answer": "Students with aggregate attendance below 65% are detained for want of attendance, cannot write semester end examinations, and must repeat the semester with the subsequent batch.",
+    "category": "Attendance"
+  },
+  {
+    "doc_id": "FAQ_004",
+    "question": "What are the placement eligibility criteria for Tier-1 Dream companies?",
+    "answer": "Tier-1 Dream companies (CTC > 10 LPA) generally require a minimum CGPA of 7.5 to 8.0, 75%+ in 10th and 12th standards, and zero active or historical backlogs.",
+    "category": "Placement"
+  },
+  {
+    "doc_id": "FAQ_005",
+    "question": "What is the minimum CGPA required for mass recruiters and IT services companies?",
+    "answer": "Most mass recruitment companies (TCS, Wipro, Infosys, Cognizant, Accenture) require a minimum CGPA of 6.0 or 60% with up to 1 active backlog permitted by select recruiters.",
+    "category": "Placement"
+  },
+  {
+    "doc_id": "FAQ_006",
+    "question": "What is the university policy on one student getting multiple job offers?",
+    "answer": "Under the One Student One Job policy, once placed in a regular tier company (3.5-6.5 LPA), a student can only apply for Dream or Super Dream offers providing at least 2X of their current compensation.",
+    "category": "Placement"
+  },
+  {
+    "doc_id": "FAQ_007",
+    "question": "When are the 7th semester end examinations scheduled?",
+    "answer": "The VII semester end theory examinations are scheduled from November 16, 2026 to November 28, 2026. Lab practical examinations commence from November 30, 2026.",
+    "category": "Examinations"
+  },
+  {
+    "doc_id": "FAQ_008",
+    "question": "How can I apply for supply or backlog examinations?",
+    "answer": "Students can register for backlog and supplementary exams through the student ERP portal (erp.mlrit.ac.in) by selecting backlog subjects and paying the prescribed fee within the notification window.",
+    "category": "Examinations"
+  },
+  {
+    "doc_id": "FAQ_009",
+    "question": "How are internal assessment marks calculated in autonomous regulation?",
+    "answer": "Internal assessment consists of two mid-term examinations. The final internal marks (30/40 marks) are computed giving 75% weightage to the best mid-term and 25% weightage to the other mid-term, plus continuous assignment scores.",
+    "category": "Academics"
+  },
+  {
+    "doc_id": "FAQ_010",
+    "question": "How do I submit an academic or facility grievance in CampusIQ?",
+    "answer": "Log in to CampusIQ, navigate to the Grievances tab, select your category (Academic, Attendance, Examination, Hostel, Infrastructure), fill in details, attach supporting proof if applicable, and click Submit.",
+    "category": "Grievance"
+  },
+  {
+    "doc_id": "FAQ_011",
+    "question": "What is the grading scale and SGPA to percentage conversion formula?",
+    "answer": "The university follows a 10-point grading scale: O (10), A+ (9), A (8), B+ (7), B (6), C (5), F (0). Equivalent Percentage = (CGPA - 0.75) * 10 or CGPA * 10 depending on autonomous regulation guidelines.",
+    "category": "Academics"
+  },
+  {
+    "doc_id": "FAQ_012",
+    "question": "What are the library timings and book borrowing rules?",
+    "answer": "The Central Library is open from 08:00 AM to 08:00 PM Monday through Saturday. Undergraduate students can borrow up to 4 books for a duration of 14 days, renewable once.",
+    "category": "Campus Services"
+  },
+  {
+    "doc_id": "FAQ_013",
+    "question": "What should I do if I fall ill during semester classes or examinations?",
+    "answer": "Visit the Campus Health Center or a registered hospital, notify your departmental faculty mentor within 3 days, and submit a medical fitness certificate and diagnostic reports to the HOD upon recovery.",
+    "category": "Attendance"
+  },
+  {
+    "doc_id": "FAQ_014",
+    "question": "What are the curfew hours for college hostels?",
+    "answer": "Hostel in-time is strictly 08:30 PM for boys hostel and 07:00 PM for girls hostel. Biometric logging is enforced at the hostel entry gate.",
+    "category": "Hostel"
+  },
+  {
+    "doc_id": "FAQ_015",
+    "question": "How do I get an On-Duty (OD) attendance certificate for attending a hackathon?",
+    "answer": "Fill the OD application form on CampusIQ, get it endorsed with your participation certificate by the Faculty Coordinator, and submit to the HOD within 2 working days after the event.",
+    "category": "Attendance"
+  },
+  {
+    "doc_id": "FAQ_016",
+    "question": "Where can I download my examination hall ticket / admit card?",
+    "answer": "Hall tickets are released 4 days before exams on the CampusIQ / ERP portal under the Examinations section once departmental fee and attendance clearances are completed.",
+    "category": "Examinations"
+  },
+  {
+    "doc_id": "FAQ_017",
+    "question": "What are the passing marks criteria for theory and practical courses?",
+    "answer": "A student must secure a minimum of 35% in the semester end exam and an aggregate of 40% combining continuous internal assessment and semester end examination marks to pass a course.",
+    "category": "Academics"
+  },
+  {
+    "doc_id": "FAQ_018",
+    "question": "Who is the Assistant Professor guiding the Major Project A20 team?",
+    "answer": "Mrs. Arshiya Begum, Assistant Professor, Department of Computer Science & Engineering - Data Science, MLRIT.",
+    "category": "Faculty"
+  },
+  {
+    "doc_id": "FAQ_019",
+    "question": "What is CampusIQ and what are its key modules?",
+    "answer": "CampusIQ is an AI-powered university support platform featuring RAG-based institutional document Q&A, personalized student attendance and placement eligibility analytics, and centralized administrative management.",
+    "category": "CampusIQ"
+  },
+  {
+    "doc_id": "FAQ_020",
+    "question": "How can I check if I am eligible for upcoming campus placement drives?",
+    "answer": "Open CampusIQ, navigate to the Placements tab. The system analyzes your real-time CGPA, active backlogs, and attendance against company criteria and provides clear eligibility indicators.",
+    "category": "Placement"
+  },
+  {
+    "doc_id": "FAQ_021",
+    "question": "Can I apply for revaluation or recounting if I am not satisfied with my grades?",
+    "answer": "Yes, revaluation applications open within 7 days of result declaration. Students can apply via the examination portal by paying a fee of Rs. 1,000 per subject.",
+    "category": "Examinations"
+  },
+  {
+    "doc_id": "FAQ_022",
+    "question": "What bus routes are operated by the college transport department?",
+    "answer": "College operates 65 routes covering Kukatpally, Miyapur, Secunderabad, ECIL, Dilsukhnagar, LB Nagar, Mehdipatnam, and Medchal with GPS real-time tracking.",
+    "category": "Campus Services"
+  },
+  {
+    "doc_id": "FAQ_023",
+    "question": "Are electronic gadgets and smartwatches permitted in exam halls?",
+    "answer": "No. Mobile phones, smart watches, programmable calculators, and Bluetooth devices are strictly prohibited inside the examination halls. Possession attracts malpractice penalties.",
+    "category": "Examinations"
+  },
+  {
+    "doc_id": "FAQ_024",
+    "question": "What is the policy for students with active backlogs during campus placements?",
+    "answer": "Students with active backlogs are ineligible for Tier-1 and Tier-2 companies. A few mass hiring firms allow up to 1 backlog subject to clearing before joining.",
+    "category": "Placement"
+  },
+  {
+    "doc_id": "FAQ_025",
+    "question": "How do I reset my student portal or Wi-Fi password?",
+    "answer": "Visit the ERP & IT Helpdesk in Admin Block Room 104 or submit an IT Support request through the CampusIQ Grievance section with your roll number and college ID.",
+    "category": "Campus Services"
+  },
+  {
+    "doc_id": "FAQ_026",
+    "question": "What are the college working hours and class timetable schedule?",
+    "answer": "Regular classes operate from 09:10 AM to 04:00 PM, Monday through Saturday (except 2nd and 4th Saturdays which are holidays). Each lecture is 50 minutes.",
+    "category": "Academics"
+  },
+  {
+    "doc_id": "FAQ_027",
+    "question": "How does CampusIQ ensure that AI responses are factually accurate?",
+    "answer": "CampusIQ uses Retrieval-Augmented Generation (RAG) that strictly grounds answers in verified institutional circulars, regulations, and schedules, providing exact source citations and document names.",
+    "category": "CampusIQ"
+  },
+  {
+    "doc_id": "FAQ_028",
+    "question": "What financial aid and scholarships are available for students?",
+    "answer": "Eligible students can avail Telangana State e-PASS fee reimbursement, National Scholarship Portal (NSP) schemes, and MLRIT Merit Scholarships for university rank holders.",
+    "category": "Campus Services"
+  },
+  {
+    "doc_id": "FAQ_029",
+    "question": "Where is the college sports complex located and what are the gym hours?",
+    "answer": "The Sports Complex is located next to the main athletic ground. The gym is open 06:00 AM - 08:30 AM in the morning and 04:30 PM - 07:30 PM in the evening.",
+    "category": "Campus Services"
+  },
+  {
+    "doc_id": "FAQ_030",
+    "question": "What is the minimum CGPA required to graduate with B.Tech Honours or Minor degree?",
+    "answer": "Students must maintain a CGPA of 7.5 or above with zero backlogs and complete 18 additional credits through approved MOOCs/NPTEL courses across semesters 4 to 7.",
+    "category": "Academics"
+  }
+]

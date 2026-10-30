@@ -1,0 +1,107 @@
+[
+  {
+    "doc_id": "HOL_001",
+    "holiday": "Independence Day",
+    "date": "2026-08-15",
+    "type": "National Holiday",
+    "remarks": "Flag hoisting ceremony at 08:00 AM in front of Main Administrative Block."
+  },
+  {
+    "doc_id": "HOL_002",
+    "holiday": "Vinayaka Chavithi (Ganesh Chaturthi)",
+    "date": "2026-09-04",
+    "type": "Public Festival",
+    "remarks": "College and academic offices remain closed."
+  },
+  {
+    "doc_id": "HOL_003",
+    "holiday": "Milad-un-Nabi",
+    "date": "2026-09-16",
+    "type": "Public Holiday",
+    "remarks": "Gazetted holiday as per Telangana State Government."
+  },
+  {
+    "doc_id": "HOL_004",
+    "holiday": "Mahatma Gandhi Jayanti",
+    "date": "2026-10-02",
+    "type": "National Holiday",
+    "remarks": "Swachh Bharat cleanliness drive organized by NSS volunteers."
+  },
+  {
+    "doc_id": "HOL_005",
+    "holiday": "Bathukamma & Dussehra Vacation",
+    "date": "2026-10-12 to 2026-10-18",
+    "type": "Festival Vacation",
+    "remarks": "One week mid-semester vacation for students and faculty."
+  },
+  {
+    "doc_id": "HOL_006",
+    "holiday": "Deepavali (Diwali)",
+    "date": "2026-11-01",
+    "type": "Public Festival",
+    "remarks": "Festival of lights; hostel residents provided special festive dinner."
+  },
+  {
+    "doc_id": "HOL_007",
+    "holiday": "Kartika Purnima / Guru Nanak Jayanti",
+    "date": "2026-11-15",
+    "type": "Public Holiday",
+    "remarks": "Optional holiday for administrative staff."
+  },
+  {
+    "doc_id": "HOL_008",
+    "holiday": "Christmas Holiday",
+    "date": "2026-12-25",
+    "type": "Public Festival",
+    "remarks": "Winter vacation overlaps with Christmas celebrations."
+  },
+  {
+    "doc_id": "HOL_009",
+    "holiday": "New Year Day",
+    "date": "2027-01-01",
+    "type": "General Holiday",
+    "remarks": "Welcoming the new academic calendar year 2027."
+  },
+  {
+    "doc_id": "HOL_010",
+    "holiday": "Sankranti / Pongal Vacation",
+    "date": "2027-01-13 to 2027-01-17",
+    "type": "Festival Vacation",
+    "remarks": "Traditional harvest festival break for students."
+  },
+  {
+    "doc_id": "HOL_011",
+    "holiday": "Republic Day",
+    "date": "2027-01-26",
+    "type": "National Holiday",
+    "remarks": "Ceremonial parade and address by College Principal and Management."
+  },
+  {
+    "doc_id": "HOL_012",
+    "holiday": "Maha Shivaratri",
+    "date": "2027-02-18",
+    "type": "Public Festival",
+    "remarks": "College and examination branch closed."
+  },
+  {
+    "doc_id": "HOL_013",
+    "holiday": "Holi Festival",
+    "date": "2027-03-15",
+    "type": "Public Festival",
+    "remarks": "Festival of colors; college holiday."
+  },
+  {
+    "doc_id": "HOL_014",
+    "holiday": "Ugadi (Telugu New Year)",
+    "date": "2027-03-30",
+    "type": "State Festival",
+    "remarks": "Traditional Telugu New Year festival holiday."
+  },
+  {
+    "doc_id": "HOL_015",
+    "holiday": "Eid-ul-Fitr (Ramzan)",
+    "date": "2027-04-10",
+    "type": "Public Festival",
+    "remarks": "Subject to the sighting of the moon."
+  }
+]
